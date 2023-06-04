@@ -1,10 +1,3 @@
 👋 Hi, I’m Alp
 
-I'm a self-taught software developer with industry experience in web applications.
-I have been improving myself every day in the software industry since 2020.
-I have professional experience working with React.js, Next.js, Node.js, and TypeScript.
-I share articles on Medium and I take care to use my GitHub account actively.
-
-- 👨‍💻 I’m currently working on SeturTech
-- 👀 I'm interested in Web Development, JavaScript, React, Next, Node
-- 🌱 I’m currently learning Remix
+As a software developer with experience in both mobile app and web application development, I have worked with a range of technologies, including React Native, Redux, and TypeScript for mobile app development and React, Next.js, Node.js, and TypeScript for web application development. This has given me a strong foundation in building scalable, performant, and user-friendly applications for both platforms.
